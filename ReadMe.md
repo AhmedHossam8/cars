@@ -10,3 +10,6 @@
 
 ## To run server:
     flask --app flaskr --debug run
+
+## Initialize Database
+    flask --app flaskr init-db
