@@ -7,3 +7,6 @@
     cd Scripts
     activate
     python -m pip install -r requirements.txt
+
+## To run server:
+    flask --app flaskr --debug run
